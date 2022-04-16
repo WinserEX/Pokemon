@@ -1,0 +1,19 @@
+.firstGen {
+    display: inline-block;
+    text-align: center;
+}
+
+
+.firstGen img {
+    display: block;
+}
+
+.secondGen {
+    display: inline-block;
+    text-align: center;
+}
+
+
+.secondGen img {
+    display: block;
+}
