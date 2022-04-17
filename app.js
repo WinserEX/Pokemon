@@ -39,7 +39,7 @@ function Pokemon(a) {
 }
 
 
-let input = prompt("Choose your pokemon gen");
+let input = prompt("Choose your pokemon gen, 1 or 2");
 Pokemon(input);
 
 
